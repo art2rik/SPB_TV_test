@@ -11,7 +11,7 @@
 2. cd rspec
 3. rspec
 
-2. Методы
+## 2. Методы
 
 1.**GET** /videos/register
 
