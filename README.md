@@ -13,7 +13,7 @@
 
 ## 2. Методы
 
-1.**GET** /videos/register
+1.**POST** /videos/register
 
 > Регистрирует пользователя и видео-поток
 
