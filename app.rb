@@ -25,7 +25,7 @@ before do
 end
 
 # Registers user and video
-aget '/video/register' do
+apost '/video/register' do
   customer_id = params[:customer_id]
   video_id    = params[:video_id]
 
